@@ -1,0 +1,11 @@
+# Secrets - NEVER commit
+.env
+
+# Python
+venv/
+__pycache__/
+*.pyc
+
+# Data - report content and outputs stay local
+reports_in/
+output/
